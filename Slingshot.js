@@ -3,7 +3,7 @@ class SlingShot{
       var options = {
         bodyA: bodyA,
         pointB: pointB,
-        stiffness: 0.004,
+        stiffness: 0.04,
         lenght: 50
       } 
       this.pointB = pointB;
